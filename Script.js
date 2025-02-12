@@ -36,8 +36,8 @@ function crearPetalo() {
 
     petalo.style.left = startPosX + "px";
     petalo.style.top = startPosY +"px";
-    petalo.style.animationDuration = duration + "s";
-    petalo.style.animationDelay = startPosDelay + "s";
+    petalo.style.animationDuration = duration + "5";
+    petalo.style.animationDelay = startPosDelay + "5";
 
     
     setTimeout(() =>{
